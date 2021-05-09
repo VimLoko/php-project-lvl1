@@ -1,10 +1,15 @@
 {
     "name": "hexlet/code",
+    "description": "Игры разума",
+    "license": "MIT",
     "authors": [
         {
             "name": "Proggit",
             "email": "proggit@mail.ru"
         }
+    ],
+    "bin": [
+        "bin/brain-games"
     ],
     "require": {}
 }
