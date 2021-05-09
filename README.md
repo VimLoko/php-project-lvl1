@@ -27,4 +27,4 @@
 ### Prime numbers:
 `brain-prime`
 
-[![asciicast](https://asciinema.org/a/RaRzFIsfAw2jjbmqtcADjRJqM.svg)](https://asciinema.org/a/RaRzFIsfAw2jjbmqtcADjRJqM)
+[![asciicast](https://asciinema.org/a/3rua2Eov9xYIQXUfbOengeeyN.svg)](https://asciinema.org/a/3rua2Eov9xYIQXUfbOengeeyN)
