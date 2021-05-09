@@ -15,7 +15,7 @@ function randOperation(): string
     return OPERATORS[$key];
 }
 
-function resultExp(int $first, int $second, string $operation): ?int
+function resultExp(int $first, int $second, string $operation): int
 {
     switch ($operation) {
         case '+':
@@ -25,6 +25,7 @@ function resultExp(int $first, int $second, string $operation): ?int
         case '*':
             return $first * $second;
     }
+    return 0;
 }
 
 function game(): void
