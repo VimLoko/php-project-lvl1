@@ -28,9 +28,9 @@ function ganProgression(int $count): array
     ];
 }
 
-function game()
+function game(): void
 {
-    $qa = function () {
+    $qa = function (): array {
         $progression = ganProgression(LENGTH_PROGRESSION);
         return [
             'question' => (string)$progression['progression'],

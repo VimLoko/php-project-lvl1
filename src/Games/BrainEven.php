@@ -13,9 +13,9 @@ function isEven(int $num): bool
     return $num % 2 === 0;
 }
 
-function game()
+function game(): void
 {
-    $qa = function () {
+    $qa = function (): array {
         $question = random_int(START_RAND, END_RAND);
         $answer = isEven($question) ? 'yes' : 'no';
         return [

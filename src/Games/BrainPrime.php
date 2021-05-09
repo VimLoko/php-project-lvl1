@@ -21,9 +21,9 @@ function isPrime(int $num): bool
     return true;
 }
 
-function game()
+function game(): void
 {
-    $qa = function () {
+    $qa = function (): array {
         $question = random_int(START_RAND, END_RAND);
         $answer = isPrime($question) ? 'yes' : 'no';
         return [

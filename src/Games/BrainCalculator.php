@@ -27,9 +27,9 @@ function resultExp(int $first, int $second, string $operation): int
     }
 }
 
-function game()
+function game(): void
 {
-    $qa = function () {
+    $qa = function (): array {
         $firstOperand = random_int(START_RAND, END_RAND);
         $secondOperand = random_int(START_RAND, END_RAND);
         $operation = randOperation();

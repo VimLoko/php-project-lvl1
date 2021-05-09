@@ -22,9 +22,9 @@ function calcGcd(int $first, int $second): int
     return $divisor;
 }
 
-function game()
+function game(): void
 {
-    $qa = function () {
+    $qa = function (): array {
         $firstOperand = random_int(START_RAND, END_RAND);
         $secondOperand = random_int(START_RAND, END_RAND);
         $answer = calcGcd($firstOperand, $secondOperand);
