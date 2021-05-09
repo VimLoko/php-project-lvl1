@@ -23,3 +23,8 @@
 `brain-progression`
 
 [![asciicast](https://asciinema.org/a/jKmb9Db1lTdPDkWOJzkFZkgxG.svg)](https://asciinema.org/a/jKmb9Db1lTdPDkWOJzkFZkgxG)
+
+### Prime numbers:
+`brain-prime`
+
+[![asciicast](https://asciinema.org/a/RaRzFIsfAw2jjbmqtcADjRJqM.svg)](https://asciinema.org/a/RaRzFIsfAw2jjbmqtcADjRJqM)
