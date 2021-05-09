@@ -15,7 +15,7 @@ function randOperation(): string
     return OPERATORS[$key];
 }
 
-function resultExp(int $first, int $second, string $operation): int
+function resultExp(int $first, int $second, string $operation): ?int
 {
     switch ($operation) {
         case '+':
