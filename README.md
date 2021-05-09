@@ -8,3 +8,8 @@
 `brain-even`
 
 [![asciicast](https://asciinema.org/a/JVG0xMz6RTizN0eKgncHXzDAm.svg)](https://asciinema.org/a/JVG0xMz6RTizN0eKgncHXzDAm)
+
+### Result of the expression:
+`brain-calc`
+
+[![asciicast](https://asciinema.org/a/kI6OCh1QyrkDMA6eLUl1afmdH.svg)](https://asciinema.org/a/kI6OCh1QyrkDMA6eLUl1afmdH)
