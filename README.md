@@ -18,3 +18,8 @@
 `brain-gcd`
 
 [![asciicast](https://asciinema.org/a/IeZZ3BaQ2U2FeuRa3EawTkpSI.svg)](https://asciinema.org/a/IeZZ3BaQ2U2FeuRa3EawTkpSI)
+
+### Missing in the progression:
+`brain-progression`
+
+[![asciicast](https://asciinema.org/a/jKmb9Db1lTdPDkWOJzkFZkgxG.svg)](https://asciinema.org/a/jKmb9Db1lTdPDkWOJzkFZkgxG)
