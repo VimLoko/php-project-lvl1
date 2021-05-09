@@ -13,3 +13,8 @@
 `brain-calc`
 
 [![asciicast](https://asciinema.org/a/kI6OCh1QyrkDMA6eLUl1afmdH.svg)](https://asciinema.org/a/kI6OCh1QyrkDMA6eLUl1afmdH)
+
+### The greatest common divisor:
+`brain-gcd`
+
+[![asciicast](https://asciinema.org/a/IeZZ3BaQ2U2FeuRa3EawTkpSI.svg)](https://asciinema.org/a/IeZZ3BaQ2U2FeuRa3EawTkpSI)
